@@ -299,7 +299,7 @@ Thiago mendes/thialima
 
 https://github.com/Vulcano42/push_swap
 
-Batriz Silva 
+Batriz Silva /beatrida
 
 https://github.com/biagwmes/push_swap.git
 
